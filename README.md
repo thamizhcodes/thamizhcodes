@@ -8,7 +8,7 @@
 - I build random demo projects (mostly in python)
 - I like learning new technologies and staying up to date
 
-**My goals 2026**
+**My goals for 2027**
 
 - Write better code 
 - Focus on health a bit
